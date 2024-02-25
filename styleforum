@@ -1,8 +1,0 @@
-hr {
-    box-sizing: content-box;
-    height: 3px;
-    overflow: visible;
-    background: #9a9a9a;
-    border: #9a9a9a;
-    border-radius: 8px;
-}
